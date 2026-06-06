@@ -1,0 +1,7 @@
+# Expense Tracker Requirements
+# Python 3.7+ (Tkinter is included)
+
+# Optional packages for future enhancements:
+# matplotlib>=3.5.0  # For charts and visualizations
+# pandas>=1.3.0      # For data analysis
+# openpyxl>=3.6.0    # For Excel export
